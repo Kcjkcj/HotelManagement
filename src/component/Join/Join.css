@@ -1,0 +1,33 @@
+.form-group-join{
+    font-family: 'notosans';
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.title{
+    margin-top: 30px;
+    font-family: 'notosans';
+    text-align: center;
+    font-size: 50px;
+}
+.subtitle{
+    font-family: 'notosans';
+    text-align: center;
+    font-size: 20px;
+}
+
+.buttton{
+    width: 100px;
+    height: 50px;
+    font-family: 'notosans';
+    font-size: 16px;
+    background-color: orange;
+    margin-top:20px;
+    border-radius: 25px;
+}
+
+.homebutton{
+    font-family: 'notosans';
+    margin-right: 50px;
+    color: black;
+}

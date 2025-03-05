@@ -1,0 +1,50 @@
+.selcDateHeader{
+  font-family: 'notosans';
+  font-size: 30px;
+  padding-top: 20px;
+}
+.nalja{
+  padding-bottom: 10px;
+}
+.react-datepicker {
+    position: relative;
+    border-radius: 25px;
+    cursor:pointer;
+  }
+  .react-datepicker__input-container > input {
+    /*position: absolute;*/
+    text-align: center;
+    font-family: "notosans";
+    color: black;
+    font-size: 20px;
+    top: 20px;
+    /*transform: translateX(-50%);*/
+    width: 500px;
+    height: 60px;
+    border: black;
+    border-radius: 25px;
+    background-color: orange;
+    cursor:pointer;
+  }
+  .react-datepicker__input-container > input:focus {
+    outline: rgb(0, 0, 0);
+  }
+  
+  .react-datepicker__header {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: transparent;
+    border: transparent;
+  }
+  
+  .react-datepicker__close-icon::after {
+    position: relative;
+    left: 250px;
+    top: 120px;
+    width: 15px;
+    height: 15px;
+    font-size: 10px;
+    background-color:transparent;
+  }
+

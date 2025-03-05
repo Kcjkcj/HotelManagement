@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "jalnan";
+  src: url("fonts/Jalnan2TTF.ttf");
+}
+
+.bg-body-tertiary{
+  font-family: "jalnan";
+  src: url("fonts/Jalnan2TTF.ttf");
+  cursor: pointer;
+}
