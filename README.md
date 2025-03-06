@@ -46,19 +46,21 @@ Hotel-Management
 
 1. 환경 설정
 
-Java 버전 17
-SpringBoot 버전 3.2.0
-Spring 의존성 관리 1.1.4
+Java 버전 : 17 <br>
+SpringBoot 버전 : 3.2.0 <br>
+Spring 의존성 관리 버전 : 1.1.4 
 
-React 버전 18.2.0
-Bootstrap 버전 5.3.2
+
+React 버전 : 18.2.0 <br>
+Bootstrap 버전 : 5.3.2 
 
 2. 프로젝트 배포
 
-Spring Boot 파일을 실행하고
-Vscode에서 npm start를 하여 
-백엔드 서버와 프론트엔드 서버를 실행하고 
+Spring Boot 파일을 실행하고 <br>
+Vscode에서 npm start를 하여 <br>
+백엔드 서버와 프론트엔드 서버를 실행하고 <br> 
 Docker 혹은 직접 다운로드하여 실행한 MySQL 서버를 실행합니다.
+
 
 3. 데이터베이스 설정 <br>
 테이블 구조 <br>
