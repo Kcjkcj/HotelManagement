@@ -28,7 +28,7 @@
 
 📂 프로젝트 폴더 구조
 
-Hotel-Management
+backend
 ├── src/ <br>
 │   ├── main <br>
 │   │   ├── java <br>
@@ -57,8 +57,9 @@ SpringBoot 버전 : 3.2.0 <br>
 Spring 의존성 관리 버전 : 1.1.4 
 
 
-React 버전 : 18.2.0 <br>
-Bootstrap 버전 : 5.3.2 
+react 버전 : 19.1.0 <br>
+react-dom : 19.1.0 <br>
+Bootstrap 버전 : 5.3.7
 
 2. 프로젝트 배포
 
